@@ -1,4 +1,4 @@
-window.api = "http://52.67.12.68/caio/"
+window.api = "http://52.67.12.68/caio/app/admin"
 window.version = "0.1"
 var app = angular.module('StartApp', ['ngMessages','ui.router','ngStorage','ui.utils.masks']);
 
